@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://pava-jillella.netlify.app/" target="_blank" rel="noreferrer"><img src="assest/baner.png" alt="Pavan Jillella Banner"></a>
+  <a href="https://pava-jillella.netlify.app/" target="_blank" rel="noreferrer"><img src="baner.png" alt="Pavan Jillella Banner"></a>
 </p>
 
 
